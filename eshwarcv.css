@@ -1,0 +1,39 @@
+img{
+  border-radius: 110px;
+}
+
+.name{
+  font-family : Arial, sans-serif;
+}
+
+h1{
+  font-family : Arial, sans-serif;
+}
+
+body{
+  background-image: url('https://www.w3schools.com/css/img_tree.png');
+  background-repeat: no-repeat;
+  background-position : right top;
+  background-size: 100px;
+  background-color: #FDEFEF ;
+  font-family: Arial, sans-serif;
+}
+
+hr{
+  border-style : dotted none none none;
+  border-width : 5px;
+  border-color: grey;
+  width : 10%;
+}
+
+
+.lang_table{
+  background-color : inherit;
+}
+
+.contact{
+  background-image : url('https://thumbs.dreamstime.com/b/contact-me-20233259.jpg');
+  height : 500px;
+  background-repeat : no-repeat;
+  background-position : center;
+}
